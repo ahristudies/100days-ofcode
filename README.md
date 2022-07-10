@@ -7,7 +7,7 @@
 <h2>Contents</h2>
 
 * [Projects](rules.md)
-* [Log - click here to see my progress and thoughts](log.md)
+* [Log - click here to see my progress and thoughts](https://github.com/ahristudies/100days-ofcode/blob/main/log.md)
 
 ## Notes 💅🏻
 
