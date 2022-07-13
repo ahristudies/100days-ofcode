@@ -8,7 +8,14 @@
 
 * [Projects](https://github.com/ahristudies/100days-ofcode/tree/main/Projects)
 * [Log - click here to see my progress and thoughts](https://github.com/ahristudies/100days-ofcode/blob/main/log.md)
+<h2>Notes 💅🏻</h2>
 
-## Notes 💅🏻
-
+* Started: **13.O7.2O22** 
 * Sometimes I update my log at Twitter, you can follow me there: [@ahricodes](https://twitter.com/ahricodes)
+<br><br>
+
+|Day|Project|Time|
+| -------- | ----------------- | -------- |
+|O1|----------------| 00:00 Hours |
+
+
