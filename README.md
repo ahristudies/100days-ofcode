@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">✨ Follow me at #100DaysOfCode Challenge ✨</h1>
-<img src="https://i.pinimg.com/564x/fc/2e/d1/fc2ed1ad5e1cc2b3ffe1bbf499901a02.jpg" height="330em" align="right">
+<img src="https://i.pinimg.com/564x/47/6d/5f/476d5f9a67c4bb0850f6f8c792cfd296.jpg" height="330em" align="right">
 <h2>Contents</h2>
 
 * [Projects](rules.md)
