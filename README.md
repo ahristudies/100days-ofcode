@@ -11,4 +11,4 @@
 
 ## Notes 💅🏻
 
-* Sometimes I update my log at Twitter, you can follow me there: [@ahricodes](https://twitter.com/ka11away)
+* Sometimes I update my log at Twitter, you can follow me there: [@ahricodes](https://twitter.com/ahricodes)
