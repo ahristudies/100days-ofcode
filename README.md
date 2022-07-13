@@ -6,7 +6,7 @@
 <img src="https://i.pinimg.com/564x/47/6d/5f/476d5f9a67c4bb0850f6f8c792cfd296.jpg" height="330em" align="right">
 <h2>Contents</h2>
 
-* [Projects](rules.md)
+* [Projects](https://github.com/ahristudies/100days-ofcode/tree/main/Projects)
 * [Log - click here to see my progress and thoughts](https://github.com/ahristudies/100days-ofcode/blob/main/log.md)
 
 ## Notes 💅🏻
