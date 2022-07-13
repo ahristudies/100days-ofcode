@@ -9,7 +9,7 @@
 
 **Today's Progress**: Project started from scratch, main challenges were the button, how to align text and image side by side, I spent the whole afternoon doing this. Also I had difficulty putting opacity on the image when it is on hover (seriously, it took almost 1 hour to discover the opacity function).
 
-**Thoughts:** I created a project from the beginning, inspired by a project I saw (you can see it here), I ran out of ideas of what to actually put, maybe I don't have that much creativity to think of a sales blog or something, so I did inspired in the song I was listening to at the time, the idea was to put to the test what I've learned about CSS and HTML so far in a bootcamp I'm doing.
+**Thoughts:** I created a project from the beginning, inspired by a project I saw (you can see it here), I ran out of ideas of what to actually put, maybe I don't have that much creativity to think of a sales blog or something, so I did inspired in the song I was listening to at the time, the idea was to put to the test what I've learned about CSS and HTML so far in a bootcamp I'm doing. Using mobile devices I noticed that it is still not responsive, this is something I will fix tomorrow (even because it's my responsive class tomorrow)
 
 **Link to work:** [Blog Card](https://ahristudies.github.io/blogcard-template/)
 
