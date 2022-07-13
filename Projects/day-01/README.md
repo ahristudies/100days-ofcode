@@ -6,4 +6,4 @@ Blog created only with HTML and CSS, inspired by this layout here and everything
 
 
 ## Project Link
-[Website](https://choosealicense.com/licenses/mit/)
+[Website](https://ahristudies.github.io/blogcard-template/)
