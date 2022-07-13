@@ -5,7 +5,7 @@
 <h1 align="center">100 PROJECTS IN 100 DAYS 💗</h1>
 
 <ul>
-  <li><b><a href="#">Day O1 -</a></b></li>
+  <li><b><a href="https://github.com/ahristudies/100days-ofcode/tree/main/Projects/day-01">Day O1 - Blog Card Template (HTML/CSS)</a></b></li>
   <li><b><a href="#">Day O2 -</a></b></li>
   <li><b><a href="#">Day O3 -</a></b></li>
   <li><b><a href="#">Day O4 -</a></b></li>
