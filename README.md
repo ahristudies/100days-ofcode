@@ -16,6 +16,5 @@
 
 |Day|Project|Time|
 | -------- | ----------------- | -------- |
-|O1|----------------| 00:00 Hours |
-
+|[O1](https://github.com/ahristudies/100days-ofcode/tree/main/Projects/day-01)|Blog Card Template | 04:35 Hours |
 
