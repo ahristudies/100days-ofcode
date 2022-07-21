@@ -6,7 +6,7 @@
 
 <ul>
   <li><b><a href="https://ahristudies.github.io/blogcard-template/">Day O1 - Blog Card Template (HTML/CSS)</a></b></li>
-  <li><b><a href="#">Day O2 -</a></b></li>
+  <li><b><a href="https://ahristudies.github.io/countdown-timer/">Day O2 - Countdown Timer (HTML/CSS/JavaScript)</a></b></li>
   <li><b><a href="#">Day O3 -</a></b></li>
   <li><b><a href="#">Day O4 -</a></b></li>
 </ul>
