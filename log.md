@@ -23,8 +23,15 @@
 
 **Link to work:** not ready yet!
 
+### Day 03 July 21, 2022 
+##### (Can anybody hear me? Or am I talking to myself?.... i love simple plan)
+**Today's Progress**: Yes, I'm back, I DID NOT LEAVE THIS CHALLENGE! It's just that the trip was more tiring and longer than I thought, but we came back in full force. Today I decided to make a time counter, it was more following a tutorial actually (shoutout to my homie Florin Pop, jk), but I learned some things about background using CSS, it was the first time I ventured into Javascript, it was really cool .
 
+**Thoughts:** There was an error in my code and I loved solving it, that's where I really learned a little bit about how js works. About my portfolio, it's still under development, most of it I managed to finish yesterday, it was really cool because I realized how much I've advanced using HTML and CSS, I think that's what gave me confidence in using js today.
 
+**Link to work:** [Countdown Timer](https://ahristudies.github.io/countdown-timer/)
+
+![2022-07-21](https://user-images.githubusercontent.com/108016103/180319798-12093433-dad1-40c5-9e9e-b3086bc1d55b.png)
 
 
 
