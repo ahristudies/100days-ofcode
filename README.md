@@ -17,5 +17,5 @@
 |Day|Project|Time|
 | -------- | ----------------- | -------- |
 |[O1](https://github.com/ahristudies/100days-ofcode/tree/main/Projects/day-01)|Blog Card Template | 04:35 Hours |
-|O2| Starting my portfolio site | 05:24 Hours |
+|[O2](https://github.com/ahristudies/100days-ofcode/tree/main/Projects/day-02)|Countdown Timer | 02:14 Hours |
 
